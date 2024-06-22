@@ -1,1 +1,3 @@
-# Blogify
+# BLOGIFY
+FULL STACK BLOG MANAGMENT WEBSITE USING MERN STACK
+A comprehensive blog management website developed using the MERN stack. This project marks the culmination of my BCA degree, serving as my final year graduation project. Through this endeavor, I gained extensive hands-on experience in full-stack development, mastering key technologies such as MongoDB, Express.js, React, and Node.js. The website showcases my proficiency in front-end and back-end development, demonstrating robust functionality and sleek design. This project not only signifies my academic achievement but also highlights my dedication to continuous learning and innovation in the realm of web development."
